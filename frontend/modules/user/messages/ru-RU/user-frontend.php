@@ -24,6 +24,6 @@ return [
     'Personal Area' => 'Личный кабинет',
     'Payment history' => 'История платежей',
     'Referral link to the home page' => 'Реферальная ссылка на главную страницу',
-    'Link available' => 'Ссылка недоступна',
+    'Link available' = недоступна',
 
 ];
